@@ -19,3 +19,4 @@ The table above will be entered as ABCDEFGHIJKLMNOP
 The solver currently assumes that
 * the wordgrid consists of a 4x4 grid
 * each cell only contains one character 
+* only words with at least three characters will be displayed
