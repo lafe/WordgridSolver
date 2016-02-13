@@ -7,10 +7,12 @@ The tool requires a dictionary that provides the word list which is used to dete
 #Usage
 After starting the program loads the dictionary from the file system (currently hardcoded as "US.dict") and awaits the user input. The wordgrid has to be entered from left to right, top to bottom without any spaces.
 ##Example
-|A   |B   |C   |D   |
-|E   |F   |G   |H   |
-|I   |J   |K   |L   |
-|M   |N   |O   |P   |
+|     |     |     |     |
+| --- | --- | --- | --- |
+| A   | B   | C   | D   |
+| E   | F   | G   | H   |
+| I   | J   | K   | L   |
+| M   | N   | O   | P   |
 The table above will be entered as ABCDEFGHIJKLMNOP
 
 #Limitations
